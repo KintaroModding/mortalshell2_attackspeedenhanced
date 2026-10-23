@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "Attack Speed Enhanced",
+  "summary": "You attack about 15% faster: a base attack speed bonus of 0.15 instead of 0, like 15 stacks of Warp that never run out.",
+  "games": ["mortal-shell-ii"],
+  "tags": ["gameplay"],
+  "gameVersions": ["1.12.0"],
+  "cover": "docs/cover.png"
+}

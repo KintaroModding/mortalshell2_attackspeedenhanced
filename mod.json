@@ -1,0 +1,16 @@
+{
+  "name": "Attack Speed Enhanced",
+  "folder": "mortalshell2_attackspeedenhanced",
+  "author": "Kintaro",
+  "version": "1.0",
+  "description": "The player attacks about 15% faster: a base attack speed bonus of 0.15 instead of 0.",
+  "kind": "asset",
+  "game": "mortalshell2",
+  "gameFolder": "Mortal Shell II",
+  "paksPath": "MortalShell2\\Content\\Paks",
+  "gameVersion": "1.12.0",
+  "engine": "UE5_6",
+  "mappings": "MortalShell2-1.12.0",
+  "pakName": "mortalshell2_attackspeedenhanced_P",
+  "structs": []
+}
