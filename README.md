@@ -27,7 +27,7 @@ duration), which the tarstone "Thief's Stone" (`ID_Melee_GrantWarpOnHit`) grants
 attacks), and Warp still adds to it.
 
 "More Defense and Heal" (`mortalshell2_moredefandheal`) replaces the same table, so only one of the two works. "More
-Defense, Heal and Attack Speed" holds the changes of both in one table.
+Defense and Heal + Attack Speed Enhanced" (`mortalshell2_defhealattackspeed`) holds the changes of both in one table.
 
 The mod replaces whole assets. A mod that changes the same assets conflicts with this one, and a game update that
 changes them needs a new build of the mod.
